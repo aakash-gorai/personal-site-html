@@ -1,8 +1,8 @@
 body {
     background-color: aqua;
     font-size: larger;
-    font-weight: bold;
-    font-family: "Monaco",Monospace;
+    font-weight:600;
+    font-family: "Poppins",sans-serif;
     
   }
 
@@ -25,7 +25,9 @@ h3 {
 
 
 /********class selectors*******/
-
+.font{
+    font-weight: 800;
+}
 .imgchange:hover{
     background-color:palegoldenrod;
 }
