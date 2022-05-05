@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+    font-size: larger;
+    font-weight: bold;
+    font-family: "Monaco",Monospace;
+    
+  }
+
+  hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:black;
+    border-width: 5px;
+    height: 0px;
+  } 
+
+h1 {
+    color: burlywood;
+}
+
+h3 {
+    color: burlywood;
+}
+
+
+/********class selectors*******/
+
+.imgchange:hover{
+    background-color:palegoldenrod;
+}
+
+.dp{
+   
+    width: 200px;
+    height: 200px;
+}
+
+.emoji{
+    width: 200px;
+    height: 200px;
+}
